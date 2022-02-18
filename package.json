@@ -1,0 +1,14 @@
+{
+  "name": "developer",
+  "version": "1.0.0",
+  "description": "This is developer REST Api",
+  "main": "index.js",
+  "scripts": {
+    "js"     : "json-server --watch db.json --port 5050"
+  },
+  "author": "shahadat",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

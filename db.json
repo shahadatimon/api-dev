@@ -1,0 +1,200 @@
+{
+    "deves"     : [
+        {
+            "id"        :  1,
+            "name"      : "shahadat",
+            "age"       : 22,
+            "skill"     : "java developer",
+            "location"  : "khulna",
+            "photo"      : "https://scontent.fjsr6-1.fna.fbcdn.net/v/t39.30808-6/215880508_1454049924995577_638248420915635150_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFKa5M4awBI_4fnBe8hvoCzkGWumxiNnwyQZa6bGI2fDGPqziYd5LHBJHSTCqyV1E5E4qayw2mkUsgJsBnTem5n&_nc_ohc=luaZnWBrzX8AX_40CEV&_nc_ht=scontent.fjsr6-1.fna&oh=00_AT8h0v87ewZhfCttLFwsq1XnLEoObBSTsAnKNR6kcY1RIQ&oe=620D8F5F"
+        },
+        {
+            "id"        :  2,
+            "name"      : "Rakib",
+            "age"       : 18,
+            "skill"     : "React developer",
+            "location"  : "Dhaka",
+            "photo"      : "http://www.team.gsamdani.com/wp-content/uploads/2016/05/tm8.jpg"
+        },
+        {
+            "id"        :  3,
+            "name"      : "Salman",
+            "age"       : 25,
+            "skill"     : "Wordpress developer",
+            "location"  : "khalispur",
+            "photo"      : "https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-01.png"
+        },
+        {
+            "id"        :  4,
+            "name"      : "Rumman",
+            "age"       : 19,
+            "skill"     : "Pytion developer",
+            "location"  : "Denaspur",
+            "photo"      : "http://www.team.gsamdani.com/wp-content/uploads/2016/05/tm1.jpg"
+        },
+        {
+            "id"        :  5,
+            "name"      : "Emran",
+            "age"       : 30,
+            "skill"     : "html developer",
+            "location"  : "boreshal",
+            "photo"      : "https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-13.png"
+        },
+        {
+            "id"        :  6,
+            "name"      : "Rubal",
+            "age"       : 15,
+            "skill"     : "css developer",
+            "location"  : "shafa",
+            "photo"      : "https://www.sklinkbd.net/assets/img/team/1.jpg"
+        },
+        {
+            "id"        :  7,
+            "name"      : "Arman",
+            "age"       : 18,
+            "skill"     : "Bootstrap developer",
+            "location"  : "Rongpur",
+            "photo"      : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFfCyojWtFsMPt_Km_MW53ZIztLF29PlNLF6zfsAKvc4scb2tLwZRxORxNLanuk9OOc0&usqp=CAU"
+        },
+        {
+            "id"        :  8,
+            "name"      : "Arman",
+            "age"       : 18,
+            "skill"     : "Bootstrap developer",
+            "location"  : "Rongpur",
+            "photo"      : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjFfCyojWtFsMPt_Km_MW53ZIztLF29PlNLF6zfsAKvc4scb2tLwZRxORxNLanuk9OOc0&usqp=CAU"
+        },
+        {
+            "id"        :  9,
+            "name"      : "Emon",
+            "age"       : 24,
+            "skill"     : "divi developer",
+            "location"  : "burischor",
+            "photo"      : "https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-9.png"
+        },
+        {
+            "id"        :  10,
+            "name"      : "Sarmin",
+            "age"       : 22,
+            "skill"     : "elementor developer",
+            "location"  : "mirpur",
+            "photo"      : "https://bonsai.digital/wp-content/uploads/2014/06/team-member-02.jpg"
+        },
+        {
+            "id"        :  11,
+            "name"      : "Sarmin",
+            "age"       : 22,
+            "skill"     : "elementor developer",
+            "location"  : "mirpur",
+            "photo"      : "https://bonsai.digital/wp-content/uploads/2014/06/team-member-02.jpg"
+        },
+        {
+            "id"        :  12,
+            "name"      : "Sarmin",
+            "age"       : 22,
+            "skill"     : "elementor developer",
+            "location"  : "mirpur",
+            "photo"      : "https://bonsai.digital/wp-content/uploads/2014/06/team-member-02.jpg"
+        }
+    ],
+
+    "products"    :  [
+        {
+            "id"        :  1,
+            "name"      : "Fasion shoe",
+            "rate"      : 55,
+            "des"       : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+            "category"  : "Shoe",
+            "photo"     : "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2R1Y3R8ZW58MHx8MHx8&w=1000&q=80"
+        },
+        {
+            "id"        :  2,
+            "name"      : "Fasion Watch",
+            "rate"      : 80,
+            "des"       : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+            "category"  : "watch",
+            "photo"     : "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZHVjdHxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        {
+            "id"        :  3,
+            "name"      : "Fasion Camara",
+            "rate"      : 180,
+            "des"       : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+            "category"  : "Camara",
+            "photo"     : "https://images.unsplash.com/photo-1513116476489-7635e79feb27?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHByb2R1Y3R8ZW58MHx8MHx8&w=1000&q=80"
+        },
+        {
+            "id"        :  4,
+            "name"      : "Fasion Laptop",
+            "rate"      : 580,
+            "des"       : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+            "category"  : "Laptop",
+            "photo"     : "https://images.unsplash.com/photo-1603302576837-37561b2e2302?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGxhcHRvcHxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        {
+            "id"        :  5,
+            "name"      : "Fasion T-sart",
+            "rate"      : 80,
+            "des"       : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+            "category"  : "T-sart",
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYywI1t4M8uVu8YGxycxQHb-kcI3sOdF5MXw&usqp=CAU"
+        },
+        {
+            "id"        :  6,
+            "name"      : "Fasion Glass",
+            "rate"      : 20,
+            "des"       : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+            "category"  : "sunglass",
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxvDd1pPqUWcnsY7Y8rETqCFyL44C3DQZC-Q&usqp=CAU"
+        },
+        {
+            "id"        :  7,
+            "name"      : "Fasion Headphone",
+            "rate"      : 50,
+            "des"       : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+            "category"  : "headphone",
+            "photo"     : "https://www.ant-pc.com/workstation/assets/gaming-accessories-featured/1578554427.png"
+        },
+        {
+            "id"        :  8,
+            "name"      : "Fasion Backpack",
+            "rate"      : 100,
+            "des"       : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+            "category"  : "backpack",
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJGNhkfCGY0kbE0eUM5lmDdMh7RClT8IOkqg&usqp=CAU"
+        },
+        {
+            "id"        :  9,
+            "name"      : "Fasion Monetor",
+            "rate"      : 120,
+            "des"       : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+            "category"  : "monetor",
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMC_les0juJzBSTnyOhXcOfidlOjXcgc8JKIfiXmVNHA-VLdzxjxsf6SjCusYpg1xWhB4&usqp=CAU"
+        },
+        {
+            "id"        :  10,
+            "name"      : "Fasion iphone",
+            "rate"      : 800,
+            "des"       : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+            "category"  : "iphone",
+            "photo"     : "https://images.news18.com/ibnlive/uploads/2020/11/1605599011_apple-iphone-12-pro-max.png?impolicy=website&width=510&height=356"
+        },
+        {
+            "id"        :  11,
+            "name"      : "Fasion Votka",
+            "rate"      : 800,
+            "des"       : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+            "category"  : "votka",
+            "photo"     : "http://static1.squarespace.com/static/5d3bbeed88969e0001cf9b6e/5d48d707b87e04000193fbab/5ed788d83b8e990ffc2ff659/1638399842468/Hemp-Gin-Australia-Market-Bundle-small.jpeg?format=1500w"
+        },
+        {
+            "id"        :  12,
+            "name"      : "Fasion Votka",
+            "rate"      : 200,
+            "des"       : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using",
+            "category"  : "votka",
+            "photo"     : "http://static1.squarespace.com/static/5d3bbeed88969e0001cf9b6e/5d48d707b87e04000193fbab/5ed788d83b8e990ffc2ff659/1638399842468/Hemp-Gin-Australia-Market-Bundle-small.jpeg?format=1500w"
+        }
+    ]
+  
+}
